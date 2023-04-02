@@ -7,6 +7,8 @@
 
   ✅ npm start
 
-#tHE UI 🖥️ was built using TailwindCss and DaisyUI
+#The UI 🖥️ was built using TailwindCss and DaisyUI
 
-#Live 🔴 demo: "Coming soon..."
+#Live 🔴 demo: https://git-find-swart.vercel.app
+
+https://git-find-swart.vercel.app
